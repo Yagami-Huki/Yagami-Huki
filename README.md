@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yagami-Huki
-- 👀 I’m interested in Javascript(Node.js) and C#(Unity)
+- 👀 I’m interested in Javascript(Node.js), C#(Unity) and Python
 - 🌱 I’m currently learning Node.js and Express
 
 <!---
